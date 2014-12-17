@@ -36,7 +36,9 @@
 			<header role="banner">
 				<div class = "container-fluid">
 					<div class ="col-md-8"><img src="http://lorempixel.com/800/128/" /></div>
-					<div class ="col-md-4"><h1>We are the champions <br><small>of the world.</small></div>
+					<div class ="col-md-4"><h1>We are the champions <br><small>of the world.</small></h1></div>
+						<div class ="col-md-12"><div class="well"><h2>Lorem Ipsum</h2></div></div>
+						
 				</div>
 			
 			</header>
